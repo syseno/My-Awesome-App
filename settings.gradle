@@ -1,0 +1,2 @@
+rootProject.name = "My Awesome App"
+include ':app'
